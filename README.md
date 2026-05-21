@@ -328,35 +328,6 @@ This project demonstrates:
 
 ---
 
-# 👨‍💻 Contributors
-
-- A Ravichandra
-- Aman Kalra
-- Pruthvi Patel
-- A Atul
-- Divya Jain
-
----
-
-# 🎓 Academic Context
-
-Developed as part of:
-
-**MPBA G512 — Time Series Analysis and Forecasting**  
-Birla Institute of Technology and Science, Pilani
-
----
-
-# 📄 Report
-
-Full academic report included:
-
-```text
-reports/Group9_TS_Inflation_imf.pdf
-```
-
----
-
 # 📜 License
 
 This project is developed for academic and research purposes.
