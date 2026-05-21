@@ -1,0 +1,13 @@
+"Country","ISO","Window","ARIMA_RMSE","ARIMA_MAE","ARIMA_sMAPE","Naive_RMSE","Naive_type","Skill_Score","ARIMA_Bias"
+"United States","USA","Pre-COVID (2015-2019)",0.813,0.681,55.8,0.817,"Random Walk (I(1))",0.005,0.03
+"Germany","DEU","Pre-COVID (2015-2019)",0.499,0.402,38.5,0.741,"Random Walk (I(1))",0.326,0.096
+"Japan","JPN","Pre-COVID (2015-2019)",0.383,0.295,66.1,2.266,"Random Walk (I(1))",0.831,-0.059
+"United Kingdom","GBR","Pre-COVID (2015-2019)",0.933,0.827,70,1.029,"Random Walk (I(1))",0.094,0.494
+"China","CHN","Pre-COVID (2015-2019)",0.485,0.377,18.5,0.513,"Random Walk (I(1))",0.055,-0.089
+"India","IND","Pre-COVID (2015-2019)",1.708,1.592,32.5,1.708,"Random Walk (I(1))",0,1.592
+"United States","USA","COVID-era (2020-2023)",3.118,2.569,67.5,3.608,"Random Walk (I(1))",0.136,-2.122
+"Germany","DEU","COVID-era (2020-2023)",4.113,3.385,103.3,4.465,"Random Walk (I(1))",0.079,-2.886
+"Japan","JPN","COVID-era (2020-2023)",1.541,1.409,151.3,1.782,"Random Walk (I(1))",0.135,-0.557
+"United Kingdom","GBR","COVID-era (2020-2023)",4.146,3.231,76.9,4.605,"Random Walk (I(1))",0.1,-2.655
+"China","CHN","COVID-era (2020-2023)",1.637,1.422,80.6,1.743,"Random Walk (I(1))",0.061,1.422
+"India","IND","COVID-era (2020-2023)",0.729,0.668,11.3,1.264,"Random Walk (I(1))",0.423,-0.004
