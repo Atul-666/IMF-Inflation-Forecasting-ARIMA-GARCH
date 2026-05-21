@@ -1,0 +1,7 @@
+"Country","Model","omega","alpha1","beta1","Persistence","LR_Variance","LR_Vol"
+"United States","GARCH(1,1)-t",0.88034,1,0,1,NA,NA
+"Germany","GARCH(1,1)-t",0.40799,1,0,1,NA,NA
+"Japan","GARCH(1,1)-N",0.79362,0.5371,0,0.5371,1.7145,1.3094
+"United Kingdom","GARCH(1,1)-t",1.56199,1,0,1,NA,NA
+"China","GARCH(1,1)-N",1.16405,1,0.0709,1.0709,NA,NA
+"India","GARCH(1,1)-N",1e-05,0.0498,0.9189,0.9688,3e-04,0.0165

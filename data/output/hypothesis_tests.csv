@@ -1,0 +1,7 @@
+"Country","Series_Stationary_ADF","Residuals_Stationary","No_Autocorr_LB","Normal_Residuals_SW","LB_pval","SW_pval"
+"United States","No","Yes","Yes (good)","No",0.4796,0.0353
+"Germany","No","No","Yes (good)","No",0.91,7e-04
+"Japan","No","No","Yes (good)","No",0.9546,0.0199
+"United Kingdom","No","No","Yes (good)","No",0.6757,0
+"China","No","No","Yes (good)","No",0.9827,5e-04
+"India","No","No","Yes (good)","No",0.1757,0.0186

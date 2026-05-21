@@ -1,0 +1,7 @@
+"Country","Skewness","ExcessKurt","ARCH5_p","ARCH10_p","ARCH_Present"
+"United States",-0.311,1.337,0.1488,0.5178,FALSE
+"Germany",1.53,3.507,0.8553,0.9949,FALSE
+"Japan",0.552,0.41,0.388,0.7457,FALSE
+"United Kingdom",2.152,6.665,0.9996,1,FALSE
+"China",1.353,2.557,0.079,0.3444,TRUE
+"India",0.048,1.454,0.2108,0.5151,FALSE
