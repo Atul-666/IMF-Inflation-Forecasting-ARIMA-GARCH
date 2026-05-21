@@ -182,6 +182,14 @@ IMF-Inflation-Forecasting-ARIMA-GARCH/
 
 ---
 
+---
+
+## Residual Diagnostics
+
+![GARCH](screenshots/residual-diagnostics.png)
+
+---
+
 # ⚙️ Installation
 
 ## Clone Repository
