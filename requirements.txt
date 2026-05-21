@@ -1,0 +1,17 @@
+ggplot2
+dplyr
+tidyr
+reshape2
+scales
+tseries
+forecast
+urca
+lmtest
+gridExtra
+corrplot
+broom
+strucchange
+zoo
+cowplot
+fGarch
+e1071
